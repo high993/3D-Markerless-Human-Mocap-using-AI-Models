@@ -18,7 +18,7 @@ to get the exact poses.
 
 
 Note: you will need to gather the intrinsic matrices and distortion coefficients for each camera 
-separately and update the values in the script, here’s the link I used to get started. Be sure to replace the values in the https://github.com/jyjblrd/Low-Cost-Mocap/discussions/11#discussioncomment-9380283
+separately and update the values in the script, here’s the link I used to get started  https://github.com/jyjblrd/Low-Cost-Mocap/discussions/11#discussioncomment-9380283
 Some of the TESTSCRIPT pieces should help you diagnose and make sure that your setup is running 
 correctly however some of them can be ignored entirely. 
 

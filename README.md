@@ -13,7 +13,7 @@ and copy and paste the URL into your browser.
 Begin by placing the 120mm 7 by 5 checker pattern down on the floor in the center of the room, gather the extrinsics and then compute the camera poses. 
 If the 120mm doesn’t register because the scene is to large you can try getting a bigger checker 
 pattern from here: https://markhedleyjones.com/projects/calibration-checkerboard-collection
-Some modifications may need to be done to the location of the cameras under Mocap-Human\backend\camcalibratrion\entrinsic.py 
+Some modifications may need to be done to the location of the cameras under pythonproject5\backend\camcalibratrion\entrinsic.py 
 to get the exact poses.
 
 

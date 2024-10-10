@@ -24,14 +24,19 @@ correctly however some of them can be ignored entirely.
 
 TO DO:
 -Make the directories local
+
 -Update some of the referencing for the intrinsics 
+
 -Optimize mediapipe pose estimation compatibility with Nvidia GPUs (cuda)
+
 -Combine some of the features of the script so that the scene can be processed in real time or semi real time.
+
 -implement Kalman filter for motion tracking smoothing.
+
 - The code currently using uses mediapipe pose estimator however it could easily be swapped out for an alternative with more points for better accuracy.
-- 
-I realize that some of the functionalities of the code are inoperable at this time, I plan on fixing these issues going forward when I merge this project
-with some others and when I upgrade to better hardware. For now, the code is setup to run on pretty much any machine because most of the compute is done in the post processing.
+
+-I realize that some of the functionalities of the code are inoperable at this time, I plan on fixing these issues going forward when I merge this project
+with some others and when I upgrade to better hardware. For now, the code is setup to run on any machine pretty much any modern machine running windows or Linux and uses x86 architecture because most of the compute is done in the post processing.
  I have a few good ideas as to what I’m going to flesh out this project into, but please feel free to leave a suggestion!
 
 
